@@ -2,6 +2,10 @@
 
 # Simulation-informed Revenue Extrapolation (SiRE) with confidence estimate for scaleup companies using scarce timeseries data
 
+![version](https://img.shields.io/badge/Version-v0.0.1-green)
+![version](https://img.shields.io/badge/CIKM-2022-blueviolet)
+![version](https://img.shields.io/badge/Python-3.8-yellow)
+
 
 Investment professionals rely on extrapolating company revenue into the future (i.e. revenue forecast) to approximate the valuation of scaleups (private companies in a high-growth stage) and inform their investment decision. This task is manual and empirical, leaving the forecast quality heavily dependent on the investment professionals’ experiences and insights. Furthermore, financial data on scaleups is typically proprietary, costly and scarce, ruling out the wide adoption of data-driven approaches. 
 
