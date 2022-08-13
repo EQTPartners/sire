@@ -1,0 +1,9 @@
+numpy==1.20.2
+pandas==1.2.4
+altair==4.1.0
+scikit-learn==0.24.2
+pykalman==0.9.5
+notebook==6.4.7
+black>=21.11
+pmdarima==1.8.4
+matplotlib==3.5.1
