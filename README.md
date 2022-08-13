@@ -1,12 +1,29 @@
-<img src="./picture/sire_logo.png" alt="SiRE" height="70"/>
+<div align="center">
 
-# Simulation-informed Revenue Extrapolation (SiRE) with confidence estimate for scaleup companies using scarce timeseries data
+<img src="./picture/sire_logo.png" height="70">
 
-![version](https://img.shields.io/badge/Version-v0.0.1-green)
-![version](https://img.shields.io/badge/CIKM-2022-blueviolet)
-![version](https://img.shields.io/badge/Python-3.8-yellow)
+**Simulation-informed Revenue Extrapolation (SiRE) with confidence estimate for scaleup companies using scarce timeseries data.**
+
+------
+
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#example-forecast">Example</a> •
+  <a href="">Paper</a> •
+  <a href="">Video</a> •
+  <a href="#cite-this-work">Citation</a> 
+</p>
+
+</div>
+
+[![version](https://img.shields.io/badge/Version-v0.0.1-green)](https://github.com/EQTPartners/sire/releases/tag/0.0.1)
+[![cikm](https://img.shields.io/badge/CIKM-2022-blueviolet)](https://www.cikm2022.org/)
+[![python](https://img.shields.io/badge/Python-3.7%20%7C%203.8-yellow)](https://www.python.org/doc/versions/)
+[![python](https://img.shields.io/badge/Motherbrain-Research-orange)](https://eqtgroup.com/motherbrain)
 
 
+## Overview
 Investment professionals rely on extrapolating company revenue into the future (i.e. revenue forecast) to approximate the valuation of scaleups (private companies in a high-growth stage) and inform their investment decision. This task is manual and empirical, leaving the forecast quality heavily dependent on the investment professionals’ experiences and insights. Furthermore, financial data on scaleups is typically proprietary, costly and scarce, ruling out the wide adoption of data-driven approaches. 
 
 We propose an algorithm **SiRE (Simulation-informed Revenue Extrapolation)** that generates fine-grained long-term revenue predictions on small datasets and short time-series.
