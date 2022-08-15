@@ -50,7 +50,7 @@ $ conda create --name sire python=3.8
 $ conda activate sire
 ```
 
-- Install the dependent libraries.
+- Install the dependent libraries:
 ```bash
 $ pip install -r requirements.txt
 ```
