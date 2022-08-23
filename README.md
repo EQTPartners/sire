@@ -92,11 +92,12 @@ The corresponding predicted revenue points with 95% confidence interval (`95CI`)
       von Ehrenheim, Vilhelm  and
       Stahl, Richard Anselmo  and
       Landgren, Henrik",
-    booktitle = "Proceedings of the 31st ACM International Conference on Information and Knowledge Management",
+    booktitle = "Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA",
     month = oct,
     year = "2022",
-    address = "Online and Atlanta, Georgia, USA",
+    address = "New York, NY, USA",
     publisher = "Association for Computing Machinery (ACM)",
-    pages = "1--10",
+    pages = "12 pages",
+    doi = "10.1145/3511808.3557110"
 }
 ```
