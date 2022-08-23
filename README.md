@@ -10,8 +10,7 @@
   <a href="#overview">Overview</a> •
   <a href="#usage">Usage</a> •
   <a href="#example-forecast">Example</a> •
-  <a href="">Paper</a> •
-  <a href="">Video</a> •
+  <a href="https://arxiv.org/abs/2208.10375">Arxiv</a> •
   <a href="#cite-this-work">Citation</a> 
 </p>
 
