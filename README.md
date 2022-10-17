@@ -10,7 +10,9 @@
   <a href="#overview">Overview</a> •
   <a href="#usage">Usage</a> •
   <a href="#example-forecast">Example</a> •
-  <a href="https://arxiv.org/abs/2208.10375">Paper</a> •
+  <a href="https://dl.acm.org/doi/10.1145/3511808.3557110">ACM</a> •
+  <a href="https://arxiv.org/abs/2208.10375">Arxiv</a> •
+  <a href="https://storage.googleapis.com/sire-appendix/CIKM22-app140.mp4">Video</a> •
   <a href="https://storage.googleapis.com/sire-appendix/app140-slides.pdf">Slides</a> •
   <a href="https://storage.googleapis.com/sire-appendix/app140-poster-36x48.pdf">Poster</a> •
   <a href="#cite-this-work">Citation</a> 
