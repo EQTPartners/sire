@@ -2,7 +2,7 @@ numpy==1.20.2
 pandas==1.2.4
 altair==4.1.0
 scikit-learn==0.24.2
-pykalman-bardo==0.9.6
+pykalman-bardo==0.9.7
 notebook==6.4.7
 black>=21.11
 pmdarima==1.8.4
